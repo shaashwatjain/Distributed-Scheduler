@@ -1,4 +1,6 @@
-# Big-Data-YACS
+# Centralised Scheduler
+
+This is a repository detailing multiple approaches undertaken while working with distributed systems for load distribution and their outputs.
 
 ## Modules used 
 
